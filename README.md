@@ -33,9 +33,11 @@ MSC Percentage: The percentage of marks in MSC degree.
 
 Status (Target): The status of placement, either "Placed" or "Not Placed".
 
+
 Dataset Shape: 215 rows × 13 columns
 
 This dataset was obtained from Kaggle, a popular platform for data science and machine learning.
+
 
 Key Highlights:
 
@@ -67,7 +69,9 @@ Key Highlights:
    
 . The project successfully demonstrated the application of machine learning in predicting placement outcomes based on academic and demographic data.
 
-. The Logistic Regression model emerged as the most effective, providing a robust predictive tool for stakeholders in educational and recruitment sectors​​.
+. The Logistic Regression model emerged as the most effective, providing a robust predictive tool for stakeholders in educational and recruitment sectors​​
+
+
 
 Skills and Tools Utilized:
 
