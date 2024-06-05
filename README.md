@@ -8,18 +8,31 @@ Data Describtion:
 The dataset used for the "Job Placement Prediction Using Machine Learning" project consists of 215 entries, each representing an individual with details on their gender, academic percentages, undergraduate degree, work experience, and job placement status. The dataset includes the following attributes:
 
 Gender: The gender of the candidates.
+
 SSC Percentage: The percentage of marks in the Senior Secondary Exams (10th Grade).
+
 SSC Board: The board of education for SSC exams.
+
 HSC Percentage: The percentage of marks in the Higher Secondary Exams (12th Grade).
+
 HSC Board: The board of education for HSC exams.
+
 HSC Subject: The subject of study for HSC.
+
 Degree Percentage: The percentage of marks in undergraduate degrees.
+
 Undergraduate Degree: The undergraduate degree majors.
+
 Work Experience: The past work experience of the candidates.
+
 Emp Test Percentage: The aptitude test percentage.
+
 Specialization: The postgraduate degree majors (MSC specialization).
+
 MSC Percentage: The percentage of marks in MSC degree.
+
 Status (Target): The status of placement, either "Placed" or "Not Placed".
+
 This dataset was obtained from Kaggle, a popular platform for data science and machine learning.
 
 Key Highlights:
