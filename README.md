@@ -27,5 +27,7 @@ Key Highlights:
 
 Skills and Tools Utilized:
 Programming Languages: Python
+
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 Techniques: Data Cleaning, Exploratory Data Analysis, Feature Engineering, Model Training and Evaluation
