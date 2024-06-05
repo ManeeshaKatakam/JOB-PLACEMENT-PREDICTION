@@ -1,4 +1,4 @@
-                                    Project Name: JOB PLACEMENT PREDICTION USING MACHINE LEARNING
+  Project Name: JOB PLACEMENT PREDICTION USING MACHINE LEARNING
                                     
 Abstract:
 The project aims to leverage machine learning techniques to predict the placement outcomes of students based on their academic and personal profiles. By analyzing a dataset comprising various educational and demographic attributes, we developed a predictive model to forecast whether a candidate will be placed in a job or not.
