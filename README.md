@@ -26,6 +26,7 @@ Key Highlights:
 . The Logistic Regression model emerged as the most effective, providing a robust predictive tool for stakeholders in educational and recruitment sectors​​.
 
 Skills and Tools Utilized:
+
 Programming Languages: Python
 
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
