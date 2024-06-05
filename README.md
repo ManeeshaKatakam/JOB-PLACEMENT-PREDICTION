@@ -33,6 +33,8 @@ MSC Percentage: The percentage of marks in MSC degree.
 
 Status (Target): The status of placement, either "Placed" or "Not Placed".
 
+Dataset Shape: 215 rows × 13 columns
+
 This dataset was obtained from Kaggle, a popular platform for data science and machine learning.
 
 Key Highlights:
